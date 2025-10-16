@@ -309,7 +309,7 @@ export default function ChatInterface() {
               <div className="p-6">
                 <div className="text-center mb-6">
                   <Avatar className="h-20 w-20 bg-emerald-600 text-white flex items-center justify-center mx-auto mb-3">
-                    <span className="text-2xl font-semibold">SG</span>
+                    <span className="text-2xl font-semibold">AD</span>
                   </Avatar>
                   <h3 className="font-semibold text-slate-900 text-lg">ADF152S Study Group</h3>
                   <p className="text-sm text-slate-600">5 members</p>
